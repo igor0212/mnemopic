@@ -11,7 +11,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Mnemopic
+namespace Mnemopic.Api
 {
     public class Startup
     {
