@@ -2,7 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-  </PropertyGroup>
-
-
+  </PropertyGroup>  
+    
+  <ItemGroup>
+    <ProjectReference Include="..\Mnemopic.Borders\Mnemopic.Borders.csproj" />
+  </ItemGroup>
 </Project>
